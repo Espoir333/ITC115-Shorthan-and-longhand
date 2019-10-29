@@ -2,6 +2,9 @@
 
 public class Card
 {
+	
+   publicstaticvoid main(String[] args){
+	   
 	private String denom;
 	private String suite;
 	private String String1;
