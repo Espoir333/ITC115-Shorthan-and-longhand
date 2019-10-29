@@ -1,7 +1,7 @@
   
   public class Card
   {
-   publicstaticvoid main(String[] args){
+      publicstaticvoid main(String[] args){
         
         publicstaticvoid Task3(Scanner console){
                 String[] suits ={"Spades", "Hearts", "Diamonds", "Clubs"};
